@@ -1,5 +1,5 @@
 //Before starting these practice problems, you will want to connect your index.html file to this JavaScript file.
-//To do this, change the script tag so that it links to '01-variables-and-statements.js' instead of 'script.js'.
+//To do this, change the script tag so that it links to 'starter-files/01-variables-and-statements.js' instead of 'script.js'.
 
 // Question 1
 //What are the three keywords that you can use to declare variables in JavaScript?
