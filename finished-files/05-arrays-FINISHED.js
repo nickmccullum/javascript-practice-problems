@@ -101,6 +101,7 @@ console.log(maritimeProvinces);
 //Log the new array to the console.
 
 const allHydrocarbons = ['methane', 'ethane', 'propane', 'butane', 'pentane', 'hexane', 'heptane', 'octane', 'nonane', 'decane'];
+
 //Solution goes here
 
 const someHydrocarbons = [
