@@ -1,5 +1,5 @@
 //Before starting these practice problems, you will want to connect your index.html file to this JavaScript file.
-//To do this, change the script tag so that it links to 'starter-files/07-objects.js' instead of 'script.js'.
+//To do this, change the script tag so that it links to 'starter-files/08-flow-control.js' instead of 'script.js'.
 
 //Question 1
 //Write an if statement that logs "The variable is true" to the console if var1 is equal to true.
